@@ -1,0 +1,648 @@
+{
+  "result": 1,
+  "data": {
+    "name": "2023年中医执业医师资格考试（第一单元）真题精选及详解",
+    "freeNums": "5",
+    "desc": "",
+    "score": "82.00",
+    "Minutes": 120,
+    "nodeList": [
+      {
+        "name": "A1型选择题",
+        "desc": "每一道考题下面有A、B、C、D、E五个备选答案，请从中选择一个最佳答案。",
+        "questionList": null,
+        "questionLists": [
+          {
+            "questionId": "ff603c7b-0a82-484e-afad-4fd7332a0453",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "2d9d0fda-ec87-4550-b4bc-3bac17e43468",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "fd07a2c8-6a97-47f5-9af2-f7ce487bb324",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "6b78de6d-57b0-444b-8249-44a2e1a66ac4",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "5525dc11-487f-4f96-a90b-daa3720cd576",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "552e1583-266b-4014-9be6-9a72d6444023",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "fe77f86b-49c8-4403-bac3-40891cf8517a",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "7d396f21-e2e6-42b1-8413-83a6aee8f915",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "f1948af7-9a7a-45b9-a322-505a164c4dde",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "7efdd021-1f8b-4704-8c09-18e515875d76",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "a2e9217c-b405-4747-bf12-013559f46d60",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "65791969-fb9b-4bac-88f4-1bdc5a82a5bc",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "5cc94a15-99c9-4473-bbb2-72561d19de67",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "78c3cd78-27e3-4837-acc9-6fbdcc1894aa",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "29613c95-50ac-49c1-9ab7-6cebda8f53f1",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "73ee79ba-c163-497b-a3a7-2c8ac995b340",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "72b57c48-74ec-4afb-9e2c-bbf8f8e70c6f",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "613b6a31-c6da-40d4-a4f9-7f2d33fa30ae",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "e5e6f987-2ff8-49fb-b3da-f9c7676fe172",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "68288ceb-81b3-4f38-a23e-33dd5f8f1dd7",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "34db0324-6251-428f-989b-f1609a46b151",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "dc0316b1-32bf-46f3-961b-4b920db492f1",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "1a828961-debe-4e8f-bc61-6b4354548569",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "316a75c3-edb1-44f2-9c4c-c2a831438454",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "ce69c2ed-3e2a-47c3-9b21-0ac53d8eabec",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "960c02a0-c207-4e64-ba0e-25ea7a8f5cec",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "4a2f67c9-51b0-4ead-9ff1-0d8e756db0da",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "6e52b312-1320-43fd-be03-20d7b6ebd656",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "da494d88-6a6c-4f83-bfb3-f10423e74a63",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "598aa0af-201f-422d-9356-af4f420413b0",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "dd454bcb-fb93-4361-928f-0248fb608372",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "7439bfd2-d014-4b70-87df-f4cce5ef6230",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "46ac7cec-e27a-48a5-8f1e-113feee8907c",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "bce4ec13-09c7-4e28-8619-4fb9b0c9e33a",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "e9ad7e0e-6e5f-42dd-908a-7ec7ebaf7f2f",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "3d587495-0294-472e-8f65-c16661b9ecd6",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "15c3f57b-7879-4468-a625-ab042e0f5091",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "41f434e4-376f-4d7f-b94b-cc4284c98c85",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "4ff9bd1b-d223-4460-85e8-296d0039edbd",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "7e74d222-37c6-433e-83ca-1c9b96739642",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "1d56a5a6-389d-42c6-bc47-7e8f80d358f1",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "c86a4dd8-76d7-4f89-a280-5f7da1b4451c",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "e54a12b9-d6c0-4940-abd7-c62f88387cf5",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "4dcc66ae-b0d1-41b6-aea1-0c23984b1d36",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "71e78476-df44-4fc4-b568-2c991a607505",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "ca646986-ccb7-4bce-b85a-53556ea7632d",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "f856f832-4cb7-4f7c-8f87-66396c5b0711",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "a7756218-aaa3-4b65-b66d-556172d988e5",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "5f11f6aa-bcb1-48d6-a206-2d0fe47025fd",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "31fe7f74-cfe7-4b74-93e4-05d290aa6022",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "6ac0f7ec-cc33-45d7-b42f-7c49a4677744",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "a5412d4d-e274-41e9-b4a7-b548c8e3ce0b",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "aac1d921-09f5-4ef3-a0bd-28faf41216d2",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "df788b31-8157-4573-bfe9-2f79ee4dfbc1",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "1ab4f88b-2bea-43e7-83fa-f1f582515552",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "99c2210a-cd55-4d2d-bf0c-ee2c94eb36b5",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          }
+        ]
+      },
+      {
+        "name": "A2型选择题",
+        "desc": "每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案，请从中选择一个最佳答案。",
+        "questionList": null,
+        "questionLists": [
+          {
+            "questionId": "88cc6f1f-27e0-47d0-868d-b53220b416f1",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "d9a8b39f-ba74-41b9-b9f3-112e06442d64",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "87cc1870-41cc-4566-9a39-0ddad8614801",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "403c65f6-c42c-4816-9807-e178adcf4e78",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "8ec3105a-c49d-44c3-8065-bc7ad1198eb8",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          },
+          {
+            "questionId": "3d7e7f6a-429e-4c32-a676-8277653babd6",
+            "groupListObj": [],
+            "groupList": null,
+            "QuestionScore": "1.00",
+            "QBaseType": "single"
+          }
+        ]
+      },
+      {
+        "name": "B1型题",
+        "desc": "以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案，请从中选择一个与问题关系最密切的答案。某一个备选答案可能被选择一次，多次或不被选择。",
+        "questionList": null,
+        "questionLists": [
+          {
+            "questionId": "27c2e78b-e916-46ed-ad36-8923c1bfbfa3",
+            "groupListObj": [
+              {
+                "questionId": "34f20f9d-82be-4f8c-9d0f-7573749a3c87",
+                "QuestionScore": "1.00",
+                "QBaseType": "single"
+              },
+              {
+                "questionId": "3ead192e-2a4c-45ec-8192-80ebc0780539",
+                "QuestionScore": "1.00",
+                "QBaseType": "single"
+              }
+            ],
+            "groupList": null,
+            "QuestionScore": null,
+            "QBaseType": null
+          },
+          {
+            "questionId": "71ca6181-5ca1-4182-b0e8-a0cf1d46801d",
+            "groupListObj": [
+              {
+                "questionId": "2b068310-9a1c-46c2-9165-56a88fc8489e",
+                "QuestionScore": "1.00",
+                "QBaseType": "single"
+              },
+              {
+                "questionId": "a7af188a-04fd-434b-bbcf-c9c131c9317f",
+                "QuestionScore": "1.00",
+                "QBaseType": "single"
+              }
+            ],
+            "groupList": null,
+            "QuestionScore": null,
+            "QBaseType": null
+          },
+          {
+            "questionId": "271d0b84-f494-4b9a-8f25-e30fb087150b",
+            "groupListObj": [
+              {
+                "questionId": "b2c0cafb-fc94-46cb-b553-4133fcf9fc9a",
+                "QuestionScore": "1.00",
+                "QBaseType": "single"
+              },
+              {
+                "questionId": "a66e8a5a-7c4f-46ac-abde-e7bc87c4f421",
+                "QuestionScore": "1.00",
+                "QBaseType": "single"
+              }
+            ],
+            "groupList": null,
+            "QuestionScore": null,
+            "QBaseType": null
+          },
+          {
+            "questionId": "3eebba1f-33f7-4d4f-a563-757d20c585e1",
+            "groupListObj": [
+              {
+                "questionId": "642537ad-4219-4869-b47e-1bcb49f462c1",
+                "QuestionScore": "1.00",
+                "QBaseType": "single"
+              },
+              {
+                "questionId": "e6dd58cc-a4d2-40ad-8444-728cd6c55878",
+                "QuestionScore": "1.00",
+                "QBaseType": "single"
+              }
+            ],
+            "groupList": null,
+            "QuestionScore": null,
+            "QBaseType": null
+          },
+          {
+            "questionId": "51298da9-ec25-4c3d-8237-e27f9adfc33b",
+            "groupListObj": [
+              {
+                "questionId": "ef398945-43db-4e5a-98ea-61efd49950e2",
+                "QuestionScore": "1.00",
+                "QBaseType": "single"
+              },
+              {
+                "questionId": "3d007c4e-81af-4ed8-a203-347bbd30a511",
+                "QuestionScore": "1.00",
+                "QBaseType": "single"
+              }
+            ],
+            "groupList": null,
+            "QuestionScore": null,
+            "QBaseType": null
+          },
+          {
+            "questionId": "2126037c-318d-4c77-b3b5-62570455b8b5",
+            "groupListObj": [
+              {
+                "questionId": "ef82526e-b3a4-48bb-88a2-66c2491c7c28",
+                "QuestionScore": "1.00",
+                "QBaseType": "single"
+              },
+              {
+                "questionId": "0013ef4a-3a0f-4982-beb2-9a773ea849f1",
+                "QuestionScore": "1.00",
+                "QBaseType": "single"
+              }
+            ],
+            "groupList": null,
+            "QuestionScore": null,
+            "QBaseType": null
+          },
+          {
+            "questionId": "5bb7df20-945b-442c-acbc-efcec4c94462",
+            "groupListObj": [
+              {
+                "questionId": "0bfcb30f-6958-4f50-bf5f-7af74cade7eb",
+                "QuestionScore": "1.00",
+                "QBaseType": "single"
+              },
+              {
+                "questionId": "2a25f1af-b241-4a0a-a73b-425c46310205",
+                "QuestionScore": "1.00",
+                "QBaseType": "single"
+              }
+            ],
+            "groupList": null,
+            "QuestionScore": null,
+            "QBaseType": null
+          },
+          {
+            "questionId": "91c3b858-ccbf-4ebe-868e-70a43188322a",
+            "groupListObj": [
+              {
+                "questionId": "8eb84274-560a-4d35-973d-0de8d53508ff",
+                "QuestionScore": "1.00",
+                "QBaseType": "single"
+              },
+              {
+                "questionId": "6723248a-798f-4616-9a98-706d599edec0",
+                "QuestionScore": "1.00",
+                "QBaseType": "single"
+              }
+            ],
+            "groupList": null,
+            "QuestionScore": null,
+            "QBaseType": null
+          },
+          {
+            "questionId": "e80ca289-3d87-4f17-8d9d-82653539d0e0",
+            "groupListObj": [
+              {
+                "questionId": "c600a60f-65b3-45fe-9570-4326f9bf6cb0",
+                "QuestionScore": "1.00",
+                "QBaseType": "single"
+              },
+              {
+                "questionId": "64bd9d3a-2cbd-4fa6-80c4-c1c6a3779fea",
+                "QuestionScore": "1.00",
+                "QBaseType": "single"
+              }
+            ],
+            "groupList": null,
+            "QuestionScore": null,
+            "QBaseType": null
+          },
+          {
+            "questionId": "a11a95f4-ba36-4c0e-b7df-017c56b342f1",
+            "groupListObj": [
+              {
+                "questionId": "d8fe0706-db3d-4709-bf85-79959f3e5333",
+                "QuestionScore": "1.00",
+                "QBaseType": "single"
+              },
+              {
+                "questionId": "25e71602-be68-4726-a1e7-267cb681d94c",
+                "QuestionScore": "1.00",
+                "QBaseType": "single"
+              }
+            ],
+            "groupList": null,
+            "QuestionScore": null,
+            "QBaseType": null
+          }
+        ]
+      }
+    ],
+    "testsSort": 0
+  }
+}
